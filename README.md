@@ -1,0 +1,1 @@
+Investigates different proportions of water sources by residents in Maji Ndogo, urban rural proportions, average queue times by province and days, water pollution levels and level of crimes by gender and province.
